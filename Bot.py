@@ -14,7 +14,7 @@ from OMDB import get_movie_info
 
 START_MSG = f"Hai \nI'm a Simple Telegram Bot To Get Info About Movies \nSend me movie name to get info about it!!"
 
-STICKER = 'CAACAgUAAxkDAALjS2F9dI-C4OaXKkSgsAxjX1mkofkKAAJXBAAC6aXoV2X6ud6KqXzUHgQ'  
+STICKER = 'CAACAgUAAxkBAAEDXOVhoG7HtRYSy5iH4Yr9lHNswQqDYwACFAQAAuV3-VQc5YomGf_yvCIE'  
 
 #=======================================================================
 
