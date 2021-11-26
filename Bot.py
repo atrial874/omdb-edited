@@ -12,7 +12,8 @@ from info import BOT_TOKEN
 from OMDB import get_movie_info
 #=======================================================================
 
-START_MSG = f"hi bro, \nhello"
+START_MSG = f"Hai /nI'm a Simple Telegram Bot To Get Info About Movies Using OMDb
+Send me movie name to get info about it!!"
 
 STICKER = 'CAACAgUAAxkDAALjS2F9dI-C4OaXKkSgsAxjX1mkofkKAAJXBAAC6aXoV2X6ud6KqXzUHgQ'  
 
@@ -57,7 +58,7 @@ async def imdbcmd(client, message):
 🎥 𝖣𝗂𝗋𝖾𝖼𝗍𝗈𝗋𝗌 : <b>{movie_info['director']}</b>
 📝 𝖶𝗋𝗂𝗍𝖾𝗋𝗌 : <b>{movie_info['writer']}</b>
 🔆 𝖲𝗍𝖺𝗋𝗌 : <b>{movie_info['actors']}</b>
-
+ @ask_movie_latest
 🗒 𝖯𝗅𝗈𝗍 : <code>{movie_info['plot']}</code>"""
                   
                   if poster.startswith("https"):
