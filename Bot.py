@@ -12,7 +12,7 @@ from info import BOT_TOKEN
 from OMDB import get_movie_info
 #=======================================================================
 
-START_MSG = f"Hai /nI'm a Simple Telegram Bot To Get Info About Movies Using OMDb /nSend me movie name to get info about it!!"
+START_MSG = f"Hai \nI'm a Simple Telegram Bot To Get Info About Movies \nSend me movie name to get info about it!!"
 
 STICKER = 'CAACAgUAAxkDAALjS2F9dI-C4OaXKkSgsAxjX1mkofkKAAJXBAAC6aXoV2X6ud6KqXzUHgQ'  
 
