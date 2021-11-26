@@ -58,7 +58,7 @@ async def imdbcmd(client, message):
 🎥 𝖣𝗂𝗋𝖾𝖼𝗍𝗈𝗋𝗌 : <b>{movie_info['director']}</b>
 📝 𝖶𝗋𝗂𝗍𝖾𝗋𝗌 : <b>{movie_info['writer']}</b>
 🔆 𝖲𝗍𝖺𝗋𝗌 : <b>{movie_info['actors']}</b>
- @ask_movie_latest
+
 🗒 𝖯𝗅𝗈𝗍 : <code>{movie_info['plot']}</code>"""
                   
                   if poster.startswith("https"):
